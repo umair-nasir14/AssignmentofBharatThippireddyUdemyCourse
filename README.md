@@ -1,2 +1,3 @@
-# AssignmentofBharatThippireddyUdemyCourse
-Some Class, Inheritence, Abstraction and other basics related assignments of Bharat Thippireddy course on Udemy.
+# Python Practice Repository
+
+All the coding practice related to basics of classes, inheritence etc 
